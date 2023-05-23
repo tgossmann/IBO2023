@@ -19,8 +19,8 @@ http://services.cbu.uib.no/tools/kaks
 
 ## Individuelle Uploadlinks
 
-A1: https://www.dropbox.com/request/zZn7AaGU1e6RZcGB7ldz
-A2: https://www.dropbox.com/request/HQMUuDpj3Hs7z1F4UTPv
+- A1: https://www.dropbox.com/request/zZn7AaGU1e6RZcGB7ldz
+- A2: https://www.dropbox.com/request/HQMUuDpj3Hs7z1F4UTPv
 A3:
 A4:
 A5:
