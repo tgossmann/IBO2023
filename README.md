@@ -26,8 +26,8 @@ http://services.cbu.uib.no/tools/kaks
 - A5: https://www.dropbox.com/request/p3m7Nw3EaPFVemsvlzw1
 - A6: https://www.dropbox.com/request/YfTpl90BITFDTYBXXL2y
 - B1: https://www.dropbox.com/request/XWNuct3ewl2D4V6CbVQZ
-- B2:
-- B3:
+- B2: https://www.dropbox.com/request/fvmG5PAeWV1jipyFA6Aq
+- B3: 
 - B4:
 - B5:
 - B6:
